@@ -8,3 +8,6 @@ ClientA\MajorObjects\cuddly_0504_636295361406736540.txt
 
 -------------------------------------
 ClientA\MajorObjects\cuddly_0504_05052017-124131.9424.txt
+
+-------------------------------------
+ClientA\MajorObjects\cuddly_0504_05052017-131335.7578.txt
